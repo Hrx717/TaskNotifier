@@ -6,6 +6,8 @@
 - RabbitMQ
 - Mongoose (Object Data Modeling Library) & MongoDB
 
+<img width="1879" height="873" alt="Screenshot 2025-07-24 115341" src="https://github.com/user-attachments/assets/9a70457a-11d2-4495-a01b-ce9cf8d84394" />
+
 ## User Service
 
 Manage User:
